@@ -1,2 +1,5 @@
-# my-python-codes
-Some of my python programming problems code that i have solved
+## Sorting Algorithms
+
+[Selection sort](https://github.com/omiq17/my-python-codes/blob/master/sorting-algorithms/selection-sort.py)
+
+[Insertion sort](https://github.com/omiq17/my-python-codes/blob/master/sorting-algorithms/insertion-sort.py)
