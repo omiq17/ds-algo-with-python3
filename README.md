@@ -8,7 +8,16 @@
 - [Counting sort](https://github.com/omiq17/my-python-codes/blob/master/sorting-algorithms/counting-sort.py)
 - [Radix sort](https://github.com/omiq17/my-python-codes/blob/master/sorting-algorithms/radix-sort.py)
 
-## Searching Algorithm
+## Searching Algorithms
 
 - [Linear Search](https://github.com/omiq17/my-python-codes/blob/master/searching-algorithms/linear-search.py)
 - [Binary Search](https://github.com/omiq17/my-python-codes/blob/master/searching-algorithms/binary-search.py)
+
+## Graph
+
+- [BFS](https://github.com/omiq17/my-python-codes/blob/master/graph/bfs.py)
+- [DFS](https://github.com/omiq17/my-python-codes/blob/master/graph/dfs.py)
+
+## Dynamic Programming
+
+-[Fibonacci Numbers](-https://github.com/omiq17/my-python-codes/blob/master/dynamic-programming/fibonacci.py)
