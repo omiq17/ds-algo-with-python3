@@ -20,4 +20,4 @@
 
 ## Dynamic Programming
 
-- [Fibonacci Numbers](-https://github.com/omiq17/my-python-codes/blob/master/dynamic-programming/fibonacci.py)
+- [Fibonacci Numbers](https://github.com/omiq17/my-python-codes/blob/master/dynamic-programming/fibonacci.py)
