@@ -22,3 +22,6 @@ for i in range(n, 1, -1):
 #converting list int elements to str
 print("The sorted list is: ")
 print(" ".join( [str(x) for x in li] ))
+
+
+# this approach of Bubble sort takes the larger element to the right and so on.
